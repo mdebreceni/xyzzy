@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">Rock Paper Scissors Lizard Spock</string>
+    <string name="action_settings">Settings</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="lizard">Lizard</string>
+    <string name="spock">Spock</string>
+    <string name="make_your_move">Make your move</string>
+    <string name="i_win">I win!</string><string name="you_win">You win!</string>
+    
+    
+    
+    <string-array name="rock_wins">
+        <item >Rock smashes scissors.</item>
+        <item >Rock crushes lizard.</item>
+    </string-array>
+    <string-array name="paper_wins">
+        <item>Paper disproves Spock.</item>
+        <item >Paper covers rock.</item>
+    </string-array>
+    <string-array name="scissors_wins">
+        <item >Scissors decapitate lizard.</item>
+        <item >Scissors cut paper.</item>
+    </string-array>
+    <string-array name="lizard_wins">
+        <item >Lizard eats paper.</item>
+        <item >Lizard poisons Spock.</item>
+    </string-array>
+    <string-array name="spock_wins">
+        <item >Spock vaporizes rock.</item>
+        <item >Spock smashes scissors.</item>
+    </string-array>
+
+</resources>
