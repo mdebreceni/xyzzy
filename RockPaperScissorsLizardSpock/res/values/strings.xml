@@ -32,5 +32,15 @@
         <item >Spock vaporizes rock.</item>
         <item >Spock smashes scissors.</item>
     </string-array>
+    <string-array name="moves">
+        <item >Rock</item>
+        <item >Spock</item>
+        <item >Paper</item>
+        <item >Lizard</item>
+        <item >Scissors</item>
+    </string-array>
+    <string name="you_played">&quot;You played &quot;</string>
+    <string name="and_i_played">&quot; and I played &quot;</string>
+    <string name="tie">We tied.</string>
 
 </resources>
